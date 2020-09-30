@@ -1,2 +1,2 @@
-# Data-Science-Analysis-Intern
-The Sparks Foundation.
+# DataScience and Analytics Intern
+At The Sparks Foundation.
